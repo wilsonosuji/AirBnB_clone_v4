@@ -12,8 +12,8 @@ The console is the first segment of the AirBnB project at Holberton School that 
 
 ## Authors
 
-Abel Berhanu - [Github](https://github.com/abela12)  
-Abdulqodir Oladimeji)- [Github](https://github.com/Abdulqodir-Oladimeji)
+Wilson Osuji - [Github](https://github.com/wilsonosuji)  
+Lawson Osuji - [Github](https://github.com/LeoIsTush)
 
 ## License
 
